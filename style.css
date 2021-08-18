@@ -1,0 +1,36 @@
+header, footer{
+    
+    background-color: black;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+    list-style: none;
+    
+}
+ ul{
+    padding: 10px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+p{
+    column-count: 4;
+    text-align: justify;
+    column-fill: balance ;
+    column-rule-style: solid;
+}
+
+
+
+main{
+    padding-bottom: 20px;
+}
+h2{
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
